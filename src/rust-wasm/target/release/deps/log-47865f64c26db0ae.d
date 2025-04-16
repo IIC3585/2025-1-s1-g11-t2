@@ -1,0 +1,10 @@
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/release/deps/liblog-47865f64c26db0ae.rmeta: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/release/deps/liblog-47865f64c26db0ae.rlib: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/release/deps/log-47865f64c26db0ae.d: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs:
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs:
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs:
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs:

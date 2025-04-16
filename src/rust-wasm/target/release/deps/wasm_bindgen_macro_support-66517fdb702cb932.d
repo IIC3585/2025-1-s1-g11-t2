@@ -1,0 +1,8 @@
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/release/deps/libwasm_bindgen_macro_support-66517fdb702cb932.rmeta: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/parser.rs
+
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/release/deps/libwasm_bindgen_macro_support-66517fdb702cb932.rlib: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/parser.rs
+
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/release/deps/wasm_bindgen_macro_support-66517fdb702cb932.d: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/parser.rs
+
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/lib.rs:
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-macro-support-0.2.100/src/parser.rs:

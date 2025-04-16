@@ -1,0 +1,9 @@
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/wasm32-unknown-unknown/release/deps/libweb_sys-c0c67743555f77bd.rmeta: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/mod.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/gen_console.rs
+
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/wasm32-unknown-unknown/release/deps/libweb_sys-c0c67743555f77bd.rlib: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/mod.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/gen_console.rs
+
+/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11° Semestre/Diseño App Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/wasm32-unknown-unknown/release/deps/web_sys-c0c67743555f77bd.d: /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/lib.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/mod.rs /Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/gen_console.rs
+
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/lib.rs:
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/mod.rs:
+/Users/josepedro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web-sys-0.3.77/src/features/gen_console.rs:

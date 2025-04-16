@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="manifest.json">
+  <title>Image Processor PWA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .controls {
+      margin: 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      min-width: 150px;
+      font-size: 14px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    canvas {
+      max-width: 100%;
+      border: 1px solid #ddd;
+      margin-top: 20px;
+    }
+    .brightness-control {
+      margin: 20px 0;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .brightness-control label {
+      min-width: 100px;
+    }
+    input[type="range"] {
+      flex: 1;
+      height: 8px;
+      -webkit-appearance: none;
+      background: #ddd;
+      border-radius: 4px;
+      outline: none;
+    }
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 20px;
+      height: 20px;
+      background: #4CAF50;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    #upload {
+      margin-bottom: 20px;
+      padding: 10px;
+      border: 2px dashed #4CAF50;
+      border-radius: 4px;
+      width: 100%;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Procesador de Imágenes con WASM</h1>
+  <input type="file" id="upload" accept="image/*">
+  <div class="controls">
+    <button id="grayscale">Aplicar Filtro Gris</button>
+    <button id="sepia">Aplicar Filtro Sepia</button>
+    <button id="invert">Invertir Colores</button>
+  </div>
+  <div class="brightness-control">
+    <label for="brightness">Brillo:</label>
+    <input type="range" id="brightness" min="0" max="2" step="0.1" value="1">
+    <span id="brightness-value">1.0</span>
+  </div>
+  <canvas id="canvas"></canvas>
+
+  <script type="module" src="/src/index.js"></script>
+</body>
+</html>
