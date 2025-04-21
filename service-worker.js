@@ -5,7 +5,9 @@ const urlsToCache = [
   '/src/index.js',
   '/src/rust-wasm/pkg/rust_wasm.js',
   '/src/rust-wasm/pkg/rust_wasm_bg.wasm',
-  '/manifest.json'
+  '/manifest.json',
+  '/icons/icon-192x192.svg',
+  '/icons/badge-72x72.svg'
 ];
 
 self.addEventListener('install', event => {
@@ -47,8 +49,8 @@ self.addEventListener('fetch', event => {
 self.addEventListener('push', event => {
   const options = {
     body: event.data.text(),
-    icon: '/icon-192x192.png',
-    badge: '/badge-72x72.png',
+    icon: '/icons/icon-192x192.svg',
+    badge: '/icons/badge-72x72.svg',
     vibrate: [100, 50, 100],
     data: {
       dateOfArrival: Date.now(),

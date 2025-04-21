@@ -1,1 +1,0 @@
-/Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11°\ Semestre/Diseño\ App\ Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/target/wasm32-unknown-unknown/release/rust_wasm.wasm: /Users/josepedro/Library/CloudStorage/OneDrive-UniversidadCatólicadeChile/11°\ Semestre/Diseño\ App\ Web/IIC3585-2025-1-s1-g11-t2/src/rust-wasm/src/lib.rs

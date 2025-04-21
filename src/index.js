@@ -45,8 +45,8 @@ async function run() {
       const registration = await navigator.serviceWorker.ready;
       registration.showNotification(title, {
         body: body,
-        icon: '/icon-192x192.png',
-        badge: '/badge-72x72.png',
+        icon: '/icons/icon-192x192.svg',
+        badge: '/icons/badge-72x72.svg',
         vibrate: [100, 50, 100]
       });
     } catch (error) {
